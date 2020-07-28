@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name keyboard_parts)(type KiCad)(uri "E:/KiCad_Libraries/Footprint Libraries/keyboard_parts.pretty")(options "")(descr ""))
+  (lib (name Footprints)(type KiCad)(uri ${KIPRJMOD}/Footprints.pretty)(options "")(descr ""))
+)
