@@ -9,10 +9,10 @@ Built with SMD components, and ATMega32u4.
 ![build image](https://github.com/EriicLii/6-key-Macro-Pad/blob/master/Images/completed.jpg)
 
 PCB:
-![PCB Image](https://github.com/EriicLii/6-key-Macro-Pad/blob/master/pcb.png)
+![PCB Image](https://github.com/EriicLii/6-key-Macro-Pad/blob/master/Images/pcb.png)
 
 Schematic:
-![Schematic](https://github.com/EriicLii/6-key-Macro-Pad/blob/master/schematic.png)
+![Schematic](https://github.com/EriicLii/6-key-Macro-Pad/blob/master/Images/schematic.png)
 
 ## Update 7/31
 Finally got to soldering the parts. 
